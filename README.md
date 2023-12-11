@@ -1,2 +1,2 @@
-Information Theory Fall 2023
+ECE1502 - Information Theory - Fall 2023
 
